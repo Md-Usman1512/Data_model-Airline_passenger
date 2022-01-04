@@ -5,10 +5,10 @@ Airlines regularly send surveys to their passengers in order to collect valuable
 The dataset used comprises of passenger satisfaction levels of different aspects of an anonymous US airline's services, and their overall experience with the airline.
 
 
-Goals And Objectives
+## Goals And Objectives
 The primary objective of this project is to understand how the circumstances in which passengers on this airline affects their overall satisfaction towards their flight. In order to do this, the goals is to explore the relationships between the types of customers and their response to certain aspects of their flight experience, and how these experiences relate to their overall trip's satisfaction.
 These types of relationships can help an airline determine the aspects of their services that lack, in order to improve the passenger experience and increase their number of seat sales.
 
 
-Dataset Source 
+## Dataset Source 
 This dataset was sourced from Kaggle (Timothy Klein, 2019). The dataset contains the results from an airline passenger satisfaction survey.
