@@ -6,8 +6,8 @@ The dataset used comprises of passenger satisfaction levels of different aspects
 
 
 ## Goals And Objectives
-The primary objective of this project is to understand how the circumstances in which passengers on this airline affects their overall satisfaction towards their flight. In order to do this, the goals is to explore the relationships between the types of customers and their response to certain aspects of their flight experience, and how these experiences relate to their overall trip's satisfaction.
-These types of relationships can help an airline determine the aspects of their services that lack, in order to improve the passenger experience and increase their number of seat sales.
+The primary objective of this project is to understand how the circumstances in which passengers on this airline affects their overall satisfaction towards their flight. In order to do this, we explore the relationships between the types of customers and their response to certain aspects of their flight experience, and how these experiences relate to their overall trip's satisfaction.
+These types of relationships can help the airline determine the aspects of their services that lack, in order to improve the passenger experience and increase their number of seat sales.
 
 
 ## Dataset Source 
